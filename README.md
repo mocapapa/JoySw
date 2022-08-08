@@ -8,4 +8,4 @@ Joystick and Switch Interface
 
 ![image](https://user-images.githubusercontent.com/64763/183349108-cac6cdc9-a641-4ad7-9b53-ca8b26098b29.png)
 
-![image](https://user-images.githubusercontent.com/64763/183349460-561297b0-bfc4-42af-9678-1fc154a238ec.png)
+![image](https://user-images.githubusercontent.com/64763/183349667-7b609838-2eca-4a1b-9041-3849d7e52c51.png)
